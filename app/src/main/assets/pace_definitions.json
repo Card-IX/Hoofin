@@ -1,0 +1,112 @@
+{
+  "paceDefinitions": [
+    {
+      "type": "REST",
+      "description": "A complete pause or very slow walking. Focus on catching your breath and recovery. You should be able to speak comfortably in full sentences.",
+      "perceivedEffort": "1-2/10",
+      "physicalSigns": "Normal breathing, fully relaxed muscles, heart rate close to resting"
+    },
+    {
+      "type": "EASY WALK",
+      "description": "A casual, relaxed walking pace that feels comfortable and sustainable. This is slightly slower than your everyday walking speed.",
+      "perceivedEffort": "2-3/10",
+      "physicalSigns": "Easy breathing, relaxed posture, able to hold a full conversation"
+    },
+    {
+      "type": "WALK",
+      "description": "Your normal, natural walking pace - how you'd typically walk when going somewhere without hurrying.",
+      "perceivedEffort": "3-4/10",
+      "physicalSigns": "Slightly deeper breathing, but still very comfortable, easy conversation possible"
+    },
+    {
+      "type": "BRISK WALK",
+      "description": "A purposeful, faster walking pace as if you're in a hurry. Your arms should swing naturally and your breathing deepens.",
+      "perceivedEffort": "4-5/10",
+      "physicalSigns": "Deeper breathing, can feel your heart beating faster, still able to hold a conversation"
+    },
+    {
+      "type": "JOG",
+      "description": "A slow running pace where both feet leave the ground momentarily. Focus on comfort rather than speed. This should feel sustainable.",
+      "perceivedEffort": "5-6/10",
+      "physicalSigns": "Noticeably deeper breathing, conversation possible in short sentences, light sweating"
+    },
+    {
+      "type": "RUN",
+      "description": "A moderate running pace that requires effort but could be maintained for several minutes. Your stride lengthens compared to jogging.",
+      "perceivedEffort": "6-7/10",
+      "physicalSigns": "Heavy breathing, conversation limited to short phrases, moderate sweating"
+    },
+    {
+      "type": "EASY RUN",
+      "description": "A comfortable running pace that feels sustainable. Slightly easier than your regular run pace.",
+      "perceivedEffort": "5-6/10",
+      "physicalSigns": "Breathing is controlled, able to speak in short sentences"
+    },
+    {
+      "type": "WARM UP",
+      "description": "A gradual increase in activity to prepare your body. Start with easy walking and slowly build to a light jog by the end.",
+      "perceivedEffort": "3-5/10 (progressive)",
+      "physicalSigns": "Body temperature rising, loosening muscles, breathing depth increasing"
+    },
+    {
+      "type": "COOL DOWN",
+      "description": "A gradual decrease in activity to safely lower heart rate. Begin with slow jogging and reduce to walking.",
+      "perceivedEffort": "4-2/10 (decreasing)",
+      "physicalSigns": "Breathing returning to normal, heart rate slowing, body cooling"
+    },
+    {
+      "type": "SPEED INTERVALS",
+      "description": "Short bursts of faster running. Push yourself to about 80% of your maximum effort during these segments.",
+      "perceivedEffort": "7-8/10",
+      "physicalSigns": "Heavy breathing, difficult to talk, significant sweating"
+    },
+    {
+      "type": "THRESHOLD RUN",
+      "description": "Running at the edge of your comfort zone - the fastest pace you could maintain for about 20-30 minutes.",
+      "perceivedEffort": "7/10",
+      "physicalSigns": "Breathing is labored but controlled, talking limited to single words, significant sweating"
+    },
+    {
+      "type": "TEMPO RUN",
+      "description": "A comfortably hard pace that you could sustain for about 20 minutes. Faster than your everyday run but not all-out effort.",
+      "perceivedEffort": "6-7/10",
+      "physicalSigns": "Deep, rhythmic breathing, difficult to hold a conversation"
+    },
+    {
+      "type": "HILL REPEATS",
+      "description": "Running uphill at a challenging effort, focusing on power and form. These should feel quite difficult.",
+      "perceivedEffort": "8/10",
+      "physicalSigns": "Heavy breathing, significant muscle burn in legs, difficult to talk"
+    },
+    {
+      "type": "LONG RUN",
+      "description": "A sustained run at a comfortable pace, slightly slower than your usual run pace. Focus on endurance, not speed.",
+      "perceivedEffort": "5-6/10",
+      "physicalSigns": "Controlled breathing, able to speak short sentences, steady sweating"
+    },
+    {
+      "type": "FARTLEK",
+      "description": "Swedish for 'speed play'. Mix different paces freely based on how you feel, alternating between easier and harder efforts.",
+      "perceivedEffort": "Varies between 5-8/10",
+      "physicalSigns": "Varying breathing patterns, intermittent ability to talk"
+    },
+    {
+      "type": "PYRAMID INTERVALS",
+      "description": "Intervals that increase in intensity and then decrease (like up and down a pyramid). Start easier, build to maximum effort, then gradually ease back down.",
+      "perceivedEffort": "5-9-5/10 (progression)",
+      "physicalSigns": "Breathing and effort increase then decrease throughout the interval"
+    },
+    {
+      "type": "PROGRESSIVE RUN",
+      "description": "A run that starts at an easy pace and gradually increases in speed. The last portion should be at a challenging pace.",
+      "perceivedEffort": "5-8/10 (increasing)",
+      "physicalSigns": "Breathing and effort gradually increase throughout the run"
+    },
+    {
+      "type": "RACE PACE RUN",
+      "description": "Running at the pace you would maintain during a race of similar distance. This is challenging but sustainable.",
+      "perceivedEffort": "7-8/10",
+      "physicalSigns": "Heavy breathing, difficult to speak more than a few words, heavy sweating"
+    }
+  ]
+}

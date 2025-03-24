@@ -1,0 +1,135 @@
+{
+  "name": "Lively Hoofin': Jogger to Runner",
+  "description": "For joggers ready to transition to continuous running - build from short running intervals to 20 minutes of sustained running",
+  "numberOfWeeks": 16,
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 2 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 2 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 3 }, { "type": "RUN", "duration": 1 }, { "type": "WALK", "duration": 2 } ] }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 }, { "type": "RUN", "duration": 1.5 }, { "type": "WALK", "duration": 2.5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 2 }, { "type": "WALK", "duration": 2 } ] }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 3 }, { "type": "WALK", "duration": 2 } ] }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 }, { "type": "WALK", "duration": 1 } ] }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 5 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 5 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 5 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 5 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 5 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 5 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 8 } ] }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 6 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 6 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 6 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 6 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 6 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 6 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 6 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 6 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 6 } ] }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 5 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 5 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 12 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 12 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 12 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 12 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 12 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 12 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 8 } ] }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 14 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 6 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 14 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 6 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 14 }, { "type": "WALK", "duration": 2 }, { "type": "RUN", "duration": 6 } ] }
+      ]
+    },
+    {
+      "weekNumber": 13,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 4 } ] }
+      ]
+    },
+    {
+      "weekNumber": 14,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 16 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 3 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 16 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 3 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 16 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 3 } ] }
+      ]
+    },
+    {
+      "weekNumber": 15,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 18 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 1 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 18 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 1 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 18 }, { "type": "WALK", "duration": 1 }, { "type": "RUN", "duration": 1 } ] }
+      ]
+    },
+    {
+      "weekNumber": 16,
+      "sessions": [
+        { "sessionNumber": 1,  "intervals": [ { "type": "RUN", "duration": 20 } ] },
+        { "sessionNumber": 2,  "intervals": [ { "type": "RUN", "duration": 20 } ] },
+        { "sessionNumber": 3,  "intervals": [ { "type": "RUN", "duration": 20 } ] }
+      ]
+    }
+  ]
+}

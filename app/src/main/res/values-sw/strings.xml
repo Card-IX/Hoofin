@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Do NOT translate app name and Hoofin' terms -->
+    <string name="choose_program">Chagua Programu Yako</string>
+    <string name="disclaimer_text">Tafadhali kubali kwamba unapaswa kushauriana na mtaalamu wa afya kabla ya kujaribu mojawapo ya programu hizi.</string>
+    <string name="disclaimer_checkbox">Ninakubali na ninakubaliana.</string>
+    <string name="continue_button">Endelea</string>
+    <string name="start">ANZA</string>
+    <string name="pause">SITISHA</string>
+    <string name="restart">ANZA UPYA</string>
+    <string name="exit">TOKA</string>
+    <string name="session_time_remaining">Muda uliobaki wa kipindi: %1$s</string>
+    <string name="workout_complete">Mazoezi Yamekamilika!</string>
+    <string name="loading_program">Inapakia maelezo ya programu...</string>
+    <string name="fallback_language_message">Samahani, lugha unayopendelea haipatikani. Tunatumia Kiingereza badala yake.</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GettaHoofin</string>
+    <string name="fallback_language_message">Sorry, your preferred language is not available. We\'re using English instead.</string>
+    <string name="choose_program">Choose Your Program</string>
+    <string name="disclaimer_text">Please acknowledge that you should consult with a medical professional before attempting one of these programs.</string>
+    <string name="disclaimer_checkbox">I acknowledge and agree.</string>
+    <string name="continue_button">Continue</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="restart">RESTART</string>
+    <string name="home">HOME</string>
+    <string name="session_time_remaining">Session time remaining: %1$s</string>
+    <string name="workout_complete">Workout Complete!</string>
+    <string name="loading_program">Loading program details…</string>
+</resources>

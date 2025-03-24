@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Do NOT translate app name and Hoofin' terms -->
+    <string name="choose_program">选择您的程序</string>
+    <string name="disclaimer_text">请确认在尝试这些程序之前，您应该咨询医疗专业人士。</string>
+    <string name="disclaimer_checkbox">我确认并同意。</string>
+    <string name="continue_button">继续</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="restart">重新开始</string>
+    <string name="exit">退出</string>
+    <string name="session_time_remaining">课程剩余时间：%1$s</string>
+    <string name="workout_complete">锻炼完成！</string>
+    <string name="loading_program">加载程序详情中...</string>
+    <string name="fallback_language_message">抱歉，您的首选语言不可用。我们正在使用英语代替。</string>
+</resources>

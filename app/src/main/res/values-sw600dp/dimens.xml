@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General spacing (larger for tablets) -->
+    <dimen name="spacing_tiny">6dp</dimen>
+    <dimen name="spacing_small">12dp</dimen>
+    <dimen name="spacing_medium">24dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="spacing_xlarge">48dp</dimen>
+    <dimen name="spacing_xxlarge">64dp</dimen>
+
+    <!-- Workout screen specific (larger for tablets) -->
+    <dimen name="workout_top_spacer">48dp</dimen>
+    <dimen name="workout_control_button_size">120dp</dimen>
+    <dimen name="workout_control_icon_size">72dp</dimen>
+    <dimen name="workout_skip_button_size">64dp</dimen>
+    <dimen name="workout_skip_icon_size">32dp</dimen>
+    <dimen name="workout_progress_bar_height">12dp</dimen>
+    
+    <!-- Card elevation -->
+    <dimen name="card_elevation">8dp</dimen>
+</resources>

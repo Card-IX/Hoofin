@@ -1,0 +1,135 @@
+{
+  "name": "Progress Hoofin': Walker to Jogger",
+  "description": "For walkers who are ready to add short jogging intervals - progress from walking to jogging",
+  "numberOfWeeks": 16,
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 0.75 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 1.5 }, { "type": "JOG", "duration": 1.5 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 8 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 5 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 3 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 13,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 17 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 17 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 17 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 14,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 18 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 18 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 18 }, { "type": "WALK", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 15,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 19 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 19 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 19 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 16,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 20 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 20 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 5 }, { "type": "JOG", "duration": 20 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    }
+  ]
+}

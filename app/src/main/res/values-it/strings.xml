@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Do NOT translate app name and Hoofin' terms -->
+    <string name="choose_program">Scegli il tuo programma</string>
+    <string name="disclaimer_text">Si prega di riconoscere che è necessario consultare un professionista medico prima di tentare uno di questi programmi.</string>
+    <string name="disclaimer_checkbox">Riconosco e accetto.</string>
+    <string name="continue_button">Continua</string>
+    <string name="start">INIZIA</string>
+    <string name="pause">PAUSA</string>
+    <string name="restart">RIAVVIA</string>
+    <string name="exit">ESCI</string>
+    <string name="session_time_remaining">Tempo rimanente della sessione: %1$s</string>
+    <string name="workout_complete">Allenamento completato!</string>
+    <string name="loading_program">Caricamento dettagli del programma...</string>
+    <string name="fallback_language_message">Spiacenti, la tua lingua preferita non è disponibile. Stiamo utilizzando l\'inglese invece.</string>
+</resources>

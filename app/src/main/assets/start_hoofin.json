@@ -1,0 +1,135 @@
+{
+  "name": "Start Hoofin': Couch to Walker",
+  "description": "From couch to 30 minutes of continuous walking - for beginners with little to no cardio exercise experience",
+  "numberOfWeeks": 16,
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 } ] }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 3 } ] }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "EASY WALK", "duration": 5 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 5 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "EASY WALK", "duration": 5 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 5 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "EASY WALK", "duration": 5 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 5 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "EASY WALK", "duration": 7 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 7 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "EASY WALK", "duration": 7 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 7 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "EASY WALK", "duration": 7 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 7 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 2 } ] }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "EASY WALK", "duration": 9 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 9 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "EASY WALK", "duration": 9 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 9 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "EASY WALK", "duration": 9 }, { "type": "REST", "duration": 1 }, { "type": "EASY WALK", "duration": 9 } ] }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WALK", "duration": 12 }, { "type": "REST", "duration": 1 }, { "type": "WALK", "duration": 7 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WALK", "duration": 12 }, { "type": "REST", "duration": 1 }, { "type": "WALK", "duration": 7 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WALK", "duration": 12 }, { "type": "REST", "duration": 1 }, { "type": "WALK", "duration": 7 } ] }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WALK", "duration": 15 }, { "type": "REST", "duration": 1 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WALK", "duration": 15 }, { "type": "REST", "duration": 1 }, { "type": "WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WALK", "duration": 15 }, { "type": "REST", "duration": 1 }, { "type": "WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WALK", "duration": 20 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WALK", "duration": 20 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WALK", "duration": 20 } ] }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WALK", "duration": 22 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WALK", "duration": 22 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WALK", "duration": 22 } ] }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WALK", "duration": 24 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WALK", "duration": 24 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WALK", "duration": 24 } ] }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 26 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 26 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 26 } ] }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 28 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 28 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 28 } ] }
+      ]
+    },
+    {
+      "weekNumber": 13,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 30 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 30 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 30 } ] }
+      ]
+    },
+    {
+      "weekNumber": 14,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "BRISK WALK", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "BRISK WALK", "duration": 8 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "BRISK WALK", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "BRISK WALK", "duration": 8 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "BRISK WALK", "duration": 10 }, { "type": "WALK", "duration": 2 }, { "type": "BRISK WALK", "duration": 8 } ] }
+      ]
+    },
+    {
+      "weekNumber": 15,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 12 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 16,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "BRISK WALK", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 15 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "BRISK WALK", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 15 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "BRISK WALK", "duration": 15 }, { "type": "WALK", "duration": 1 }, { "type": "BRISK WALK", "duration": 15 } ] }
+      ]
+    }
+  ]
+}

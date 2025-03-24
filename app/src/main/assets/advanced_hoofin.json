@@ -1,0 +1,135 @@
+{
+  "name": "Advanced Hoofin': Runner to Racer",
+  "description": "For established runners who can complete 20-30 minutes continuously - build speed, endurance and running performance",
+  "numberOfWeeks": 16,
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "RUN", "duration": 25 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 20 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "RUN", "duration": 28 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 2 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 22 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "RUN", "duration": 30 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "THRESHOLD RUN", "duration": 5 }, { "type": "JOG", "duration": 3 }, { "type": "THRESHOLD RUN", "duration": 5 }, { "type": "JOG", "duration": 3 }, { "type": "THRESHOLD RUN", "duration": 5 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 25 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "RUN", "duration": 35 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 2 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 2 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 2 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 2 }, { "type": "JOG", "duration": 2 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 20 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "RUN", "duration": 40 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "HILL REPEATS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 25 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "TEMPO RUN", "duration": 25 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 1 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 45 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "THRESHOLD RUN", "duration": 7 }, { "type": "JOG", "duration": 3 }, { "type": "THRESHOLD RUN", "duration": 7 }, { "type": "JOG", "duration": 3 }, { "type": "THRESHOLD RUN", "duration": 7 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "HILL REPEATS", "duration": 2 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 2 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 2 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 2 }, { "type": "JOG", "duration": 1 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 50 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "FARTLEK", "duration": 30 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 3 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 3 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 3 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 3 }, { "type": "JOG", "duration": 2 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 30 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "TEMPO RUN", "duration": 35 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "SPEED INTERVALS", "duration": 0.25 }, { "type": "JOG", "duration": 0.75 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 55 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "THRESHOLD RUN", "duration": 8 }, { "type": "JOG", "duration": 2 }, { "type": "THRESHOLD RUN", "duration": 8 }, { "type": "JOG", "duration": 2 }, { "type": "THRESHOLD RUN", "duration": 8 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "HILL REPEATS", "duration": 3 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 3 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 3 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 3 }, { "type": "JOG", "duration": 1 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 35 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "PYRAMID INTERVALS", "duration": 30 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 4 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 4 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 4 }, { "type": "JOG", "duration": 2 }, { "type": "SPEED INTERVALS", "duration": 4 }, { "type": "JOG", "duration": 2 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 60 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "TEMPO RUN", "duration": 40 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "FARTLEK", "duration": 35 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 30 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 13,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "THRESHOLD RUN", "duration": 10 }, { "type": "JOG", "duration": 2 }, { "type": "THRESHOLD RUN", "duration": 10 }, { "type": "JOG", "duration": 2 }, { "type": "THRESHOLD RUN", "duration": 10 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "SPEED INTERVALS", "duration": 1 }, { "type": "JOG", "duration": 1 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 65 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 14,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "PROGRESSIVE RUN", "duration": 45 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "HILL REPEATS", "duration": 4 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 4 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 4 }, { "type": "JOG", "duration": 1 }, { "type": "HILL REPEATS", "duration": 4 }, { "type": "JOG", "duration": 1 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "EASY RUN", "duration": 35 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 15,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "TEMPO RUN", "duration": 45 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "SPEED INTERVALS", "duration": 0.5 }, { "type": "JOG", "duration": 0.5 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 70 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    },
+    {
+      "weekNumber": 16,
+      "sessions": [
+        { "sessionNumber": 1, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "RACE PACE RUN", "duration": 50 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 2, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "PYRAMID INTERVALS", "duration": 40 }, { "type": "COOL DOWN", "duration": 5 } ] },
+        { "sessionNumber": 3, "intervals": [ { "type": "WARM UP", "duration": 5 }, { "type": "LONG RUN", "duration": 75 }, { "type": "COOL DOWN", "duration": 5 } ] }
+      ]
+    }
+  ]
+}
