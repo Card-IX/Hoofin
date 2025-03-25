@@ -33,6 +33,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
@@ -58,6 +59,8 @@ import java.io.IOException
 import java.io.InputStream
 import java.util.Locale
 import android.util.Log
+import android.os.Handler
+import android.os.Looper
 
 @Composable
 fun WorkoutScreen(
@@ -96,40 +99,48 @@ fun WorkoutScreen(
 
     // Direct state restoration if returning from settings
     if (isReturningFromSettings) {
-        // Create a local state to track if we've applied the restoration
-        var restorationApplied by remember { mutableStateOf(false) }
+        // Use the Android Handler for guaranteed execution with delay
+        val didApplyRestoration = remember { mutableStateOf(false) }
 
-        LaunchedEffect(Unit) {
-            // Use a longer delay to ensure the screen is fully initialized
-            delay(1000)
+        DisposableEffect(Unit) {
+            if (StateManager.hasWorkoutState() && !didApplyRestoration.value) {
+                val handler = Handler(Looper.getMainLooper())
 
-            Log.d("WorkoutScreen", "Detected return from settings, restoring state directly...")
+                // First, log that we're attempting restoration
+                Log.d("WorkoutScreen", "Setting up delayed state restoration handler...")
 
-            // Check if StateManager has saved state
-            if (StateManager.hasWorkoutState() && !restorationApplied) {
-                val intervalIndex = StateManager.getSavedIntervalIndex()
-                val remainingTime = StateManager.getSavedRemainingTime()
-                val wasRunning = StateManager.wasWorkoutRunning()
+                // Set up a delayed action to restore state
+                handler.postDelayed({
+                    if (StateManager.hasWorkoutState()) {
+                        val intervalIndex = StateManager.getSavedIntervalIndex()
+                        val remainingTime = StateManager.getSavedRemainingTime()
+                        val wasRunning = StateManager.wasWorkoutRunning()
 
-                Log.d("WorkoutScreen", "DIRECTLY forcing state in UI: interval=$intervalIndex, time=$remainingTime, running=$wasRunning")
+                        Log.d("WorkoutScreen", "DIRECTLY applying stored state: interval=$intervalIndex, time=$remainingTime, running=$wasRunning")
 
-                // Apply stored state directly to the ViewModel
-                viewModel._currentIntervalIndex.value = intervalIndex
-                viewModel._remainingTime.value = remainingTime
+                        // Apply stored state directly to the ViewModel
+                        viewModel._currentIntervalIndex.value = intervalIndex
+                        viewModel._remainingTime.value = remainingTime
 
-                // Mark as applied to prevent multiple applications
-                restorationApplied = true
+                        didApplyRestoration.value = true
 
-                // If it was running, restart it after a delay
-                if (wasRunning) {
-                    delay(1500)
-                    Log.d("WorkoutScreen", "Auto-starting timer after direct UI state override")
-                    viewModel._isRunning.value = true
-                    viewModel._isPaused.value = false
-                    viewModel.startTimer()
-                }
-            } else {
-                Log.d("WorkoutScreen", "No stored state found for restoration or already applied")
+                        // Set up another delayed action to restart timer if needed
+                        if (wasRunning) {
+                            handler.postDelayed({
+                                Log.d("WorkoutScreen", "Starting timer after state restoration")
+                                viewModel._isRunning.value = true
+                                viewModel._isPaused.value = false
+                                viewModel.startTimer()
+                            }, 1000) // 1 second delay
+                        }
+                    }
+                }, 1500) // 1.5 second delay for initial restoration
+            }
+
+            // Cleanup
+            onDispose {
+                // No cleanup needed for Handler
+                Log.d("WorkoutScreen", "DisposableEffect cleanup - restoration applied: ${didApplyRestoration.value}")
             }
         }
     }
